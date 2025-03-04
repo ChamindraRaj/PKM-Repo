@@ -1,0 +1,1 @@
+https://www.leakite.com/samsung-galaxy-tab-pro-10-1-sm-t520-firmware-unbrick-repair/

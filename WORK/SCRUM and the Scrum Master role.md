@@ -1,0 +1,1 @@
+What is SCRUM?![0725089f3b99fd798cb43a1884a33336.png](../_resources/0725089f3b99fd798cb43a1884a33336.png)

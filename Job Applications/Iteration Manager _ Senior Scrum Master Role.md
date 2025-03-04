@@ -1,0 +1,7 @@
+- Responsible for the day to day delivery of prioritized Digital and Technology project.
+- Co-ordinated delivery across two squads and facilitated the delivery of Business process components within the program of work.
+- Collaborated with internal and external stakeholders using facilitation, leadership and coaching skills to support the delivery squads.
+- Management of squad delivery
+- Facilitation of agile ceremonies in a scrum/waterfall environment.
+- Regular reporting of project risks, issues, dependencies to Program Manager and Program Director
+- Manaegment of dependencies across multiple squads.

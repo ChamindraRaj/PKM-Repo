@@ -1,0 +1,1 @@
+Shadow warriors, as we draw closer to the great gathering of clans known as BRP let us consider our achievements and successes. Let us look toward the future, sharpen our katana and shiruken and draw up our plans of battle in missions to come. As we look back to look forward, I request a moment to answer this scroll of questions on our journey thus far.

@@ -1,0 +1,7 @@
+RING! RING! .... RING! RING! Hwaaaah!!, what is it?? "WAIT A SEC!! OMG!!" It's my friends party! I said as I smashed down the alarm clock. "WAKE UP" I screamed. A few minutes later my family and I were in the car rushing to the party. "Have we got everything??" my mum asked. "Yes!" we answered. By the way my name is Chehan and I have a brother named Sahan. "We're here" my dad said. 
+
+I entered with a big smile "Well hello Dee" (who was my friend Dariush) I said as I greeted him. Suddenly! BAM! The 3 bad boys launched their attack. As surprising as a creepy sound they took all the party blowers, then the balloons, then the party hats! Everyone was down, "the party is doomed" Dee said. "It's OK at least they didn't doom the cake" I said. "Yeah" Dee said. Next thing was to sing happy birthday! So we did. It all seemed alright until... we came to the blow out candle bit, again "WHOOSH!" The candles went out with party bags gone!
+
+"Time to form a plan!" I said. So we formed one. We dressed as ninjas.. all 27 of us. We waited, Dariush, my friends and I. Then! We launched it! One of us turned the lights off. then we took everything back! We had the party peacefully. "AH!" I said as we went home that was great. 
+
+THE END

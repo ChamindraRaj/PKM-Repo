@@ -1,0 +1,1 @@
+https://www.xda-developers.com/i-found-best-open-source-obsidian-alternatives/

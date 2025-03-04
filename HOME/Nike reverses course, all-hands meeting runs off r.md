@@ -1,0 +1,1 @@
+Nike reverses course, all-hands meeting runs off rails https://www.theaustralian.com.au/business/the-wall-street-journal/nike-reverses-course-as-innovation-stalls-and-rivals-gain-ground/news-story/21bbda705ba69f5427562e29002f3017

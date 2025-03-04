@@ -1,0 +1,11 @@
+Sri Lanka
+
+***"A country with children who cannot question their elders***
+
+***due to false cultural traditions ultimately become***
+
+***adults who cannot question their political leaders"***
+
+I spotted this quote in social media the other day and it got me thinking... could this be true??
+
+As i watch Sri Lanka from my privileged position in another country, I see a nation going through turmoil. Turmoil brought on by mismanagement by the cancerous growth of corruption and greed. Could it be that there could be a cultural disposition to this predicament? When we look to the history of our nation it occurs to me that we as a culture have tendency for deference and respect, we respect our elders and defer to their advice. This culture has created within us people norms and actions that should be emulated. How we treat our elders matter, they are the voice of experience, the voices who advise us in our time of need they are the ones that shaped our families in both good and bad ways. Perhaps I have been lucky to have elders in my family that have been the guides in my journey through life. A nations people like individuals and families are shaped by their collective history.. but the peoples experiences through generations that have ingrained in them certain traits and predispositions. Since the independence in 1945 Sri Lanka has been 'ruled' by a political elite. An elite who looked to feather their own nests and looked to continue their place of power and privilege. Looking further back into history we see a nation separated into societal strata. Village leaders, business leaders, ministers of the ruling class and the kings and queens the rulers... as a nation these were levels in society to be respected, to be deferred to...by doing so by acting in deference and respect (true or otherwise) your family may gain something, your children may gain an opportunity some chance at a semblance prosperity. Along with this is our lived experiences as a nation that have shaped our thinking. We have the scars of a forty year long war, generations of families torn apart, uprooted and displaced. We have the fears of a nation that lived through insurrection and violent suppression

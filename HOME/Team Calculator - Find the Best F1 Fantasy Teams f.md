@@ -1,0 +1,1 @@
+https://f1fantasytools.com/team-calculator

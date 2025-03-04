@@ -1,0 +1,1 @@
+Teaming and automation - we need to highlight these for Fridays' catch up / Inspect and adapt

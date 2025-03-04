@@ -1,0 +1,1 @@
+Ritesh has been performing exceptionally as the data chapter lead since taking on this role in December.

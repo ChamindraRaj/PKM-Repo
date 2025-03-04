@@ -1,0 +1,3 @@
+- [ ] Monitor incoming workload for DEVs and ensure team isn't being overloaded
+- [ ] Follow up story structures with Product team. - Model: Description to give context and ACs to call out specific criteria
+- [ ] Development Release management roster

@@ -1,0 +1,1 @@
+If you’re looking for a cozy board game to play, we’ve got you covered https://www.polygon.com/board-games/477608/best-cozy-board-games-2024

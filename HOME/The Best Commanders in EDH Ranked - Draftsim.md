@@ -1,0 +1,1 @@
+https://draftsim.com/commander-tier-list-mtg/

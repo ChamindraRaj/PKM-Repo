@@ -1,0 +1,1 @@
+I awoke in darkness in the embrace of the night. The sounds of the world around me assaulted my senses. I looked around the scattered remains surrounding me. 

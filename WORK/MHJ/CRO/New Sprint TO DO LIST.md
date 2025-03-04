@@ -1,0 +1,3 @@
+- [ ] Sync with Jake about the requirements / priority for the the CDP releated stories
+- [ ] Sync with Torsten about the open stories from last sprint. 
+- [ ] CLOSE OUT THE ROLLOVER STORIES BEFORE PICKING UP NEW STORIES

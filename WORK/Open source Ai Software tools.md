@@ -1,0 +1,1 @@
+https://www.crn.com/news/software/2024/the-10-coolest-open-source-software-tools-of-2024?page=11
