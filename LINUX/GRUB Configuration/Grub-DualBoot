@@ -1,0 +1,7 @@
+To ensure that grub is able to read other operating systems on the same system -
+
+install -
+    sudo pacman -S os-prober
+
+update the configuration of GRUB
+    
