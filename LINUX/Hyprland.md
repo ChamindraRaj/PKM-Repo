@@ -1,4 +1,4 @@
-Use one of the pre-configured Hyprland setups. 
+#Use one of the pre-configured Hyprland setups. 
 
 JakooLit is a good one - https://github.com/JaKooLit/Arch-Hyprland
 

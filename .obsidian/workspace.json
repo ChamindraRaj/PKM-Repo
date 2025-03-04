@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LINUX/Hyprland.md",
+                "file": "LINUX/GRUB Configuration/GRUB Font.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hyprland"
+              "title": "GRUB Font"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2f5aa07d22e54f1a",
@@ -182,6 +183,7 @@
   "active": "69575b53d86adf5d",
   "lastOpenFiles": [
     "LINUX/Arch_Install.md",
+    "LINUX/GRUB Configuration/GRUB Font.md",
     "LINUX/Hyprland.md",
     "BASKETBALL/Ref training.md",
     "Untitled.canvas",
