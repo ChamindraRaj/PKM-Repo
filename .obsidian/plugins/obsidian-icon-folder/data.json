@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiArchlinux",
+      "SiLinux",
       "LiHome",
       "LiBuilding",
-      "LiPartyPopper",
-      "TiBooks",
-      "FasBasketball"
+      "LiPartyPopper"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,5 +38,7 @@
   "Books": "TiBooks",
   "Chehan_s 9th party": "LiPartyPopper",
   "WORK": "LiBuilding",
-  "HOME": "LiHome"
+  "HOME": "LiHome",
+  "LINUX": "SiLinux",
+  "LINUX/Arch_Install.md": "SiArchlinux"
 }

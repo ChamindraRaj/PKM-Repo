@@ -1,4 +1,4 @@
-- [ ] Sort out the wills
+[ ] Sort out the wills
 - [ ] Smoke alarms
 - [ ] Super stuff
 
