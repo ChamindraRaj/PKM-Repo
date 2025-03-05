@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stay in touch/Hastings/Task__.md",
+                "file": "HOME/Game Development/Star Wars Battles/Ships.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Task__"
+              "title": "Ships"
             }
           }
         ]
@@ -181,8 +181,10 @@
   },
   "active": "69575b53d86adf5d",
   "lastOpenFiles": [
-    "2025-03-04.md",
+    "HOME/Game Development/Star Wars Battles/Empire Characters.md",
+    "HOME/Game Development/Star Wars Battles/Deck list/Imperial Characters.md",
     "Stay in touch/Hastings/Task__.md",
+    "2025-03-04.md",
     "Stay in touch/Hastings/Outcomes pack - speak to team about creating this .md",
     "LINUX/Hyprland.md",
     "LINUX/Arch_Install.md",
