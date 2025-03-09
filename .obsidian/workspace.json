@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME/7 Google Chrome extensions to boost productivity.md",
+                "file": "HOME/Game Development/Star Wars Battles/Combat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7 Google Chrome extensions to boost productivity"
+              "title": "Combat"
             }
           }
         ]
@@ -179,8 +179,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a1539882da10164",
+  "active": "779bdde9917f5e5a",
   "lastOpenFiles": [
+    "HOME/Game Development/Star Wars Battles/Deck list/Grey Characters.md",
+    "HOME/Game Development/Star Wars Battles/Combat.md",
+    "HOME/Game Development/Star Wars Battles/Ships.md",
+    "HOME/Game Development/Star Wars Battles/Game Mechanics.md",
+    "HOME/Game Development/Star Wars Battles/Deck list/Imperial Characters.md",
+    "HOME/Game Development/Star Wars Battles/Empire Characters.md",
+    "HOME/Game Development/Star Wars Battles/Actions.md",
+    "LINUX/Arch_Install.md",
+    "LINUX/Hyprland.md",
+    "HOME/7 Google Chrome extensions to boost productivity.md",
     "HOME/4 reasons Zabbix is the best home lab monitoring t.md",
     "HOME/Email I sent to my work colleagues.md",
     "HOME/$75 per 1hour.md",
@@ -195,18 +205,8 @@
     "WORK/Understanding the ITIL Service Operations Processe.md",
     "conflict-files-obsidian-git.md",
     "Job Applications/Hastings Deerings - Iteration Manager - Scrum Mast.md",
-    "LINUX/Hyprland.md",
-    "LINUX/Arch_Install.md",
     "LINUX/GRUB Configuration/GRUB Font.md",
     "BASKETBALL/Ref training.md",
-    "Untitled.canvas",
-    "WORK/Retro ideas.md",
-    "WORK/Introduction to SCRUM.md",
-    "WORK/Build Cloud-based data warehouse (Snowflake_Azure .md",
-    "WORK/best-books-on-agile.md",
-    "WORK/Career progression.md",
-    "WORK/Notes for Scrum Masters.md",
-    "WORK/SCRUM and the Scrum Master role.md",
-    "WORK/Sime Darby/Dee/1.__       __How you have performed against your K.md"
+    "Untitled.canvas"
   ]
 }
