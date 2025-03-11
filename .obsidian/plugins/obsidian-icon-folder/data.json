@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RaWaterDrop",
       "SiArchlinux",
       "SiLinux",
       "LiHome",
-      "LiBuilding",
-      "LiPartyPopper"
+      "LiBuilding"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,5 +40,6 @@
   "WORK": "LiBuilding",
   "HOME": "LiHome",
   "LINUX": "SiLinux",
-  "LINUX/Arch_Install.md": "SiArchlinux"
+  "LINUX/Arch_Install.md": "SiArchlinux",
+  "LINUX/Hyprland.md": "RaWaterDrop"
 }
