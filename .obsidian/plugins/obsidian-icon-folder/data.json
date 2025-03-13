@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "RaWaterDrop",
-      "SiArchlinux",
-      "SiLinux",
-      "LiHome",
-      "LiBuilding"
+      "🏋️‍♂️",
+      "TiCards",
+      "LiDog",
+      "FasBicycle",
+      "LiListTodo"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -41,5 +41,10 @@
   "HOME": "LiHome",
   "LINUX": "SiLinux",
   "LINUX/Arch_Install.md": "SiArchlinux",
-  "LINUX/Hyprland.md": "RaWaterDrop"
+  "LINUX/Hyprland.md": "RaWaterDrop",
+  "TODO LIST.md": "LiListTodo",
+  "HOME/Bicycle Research": "FasBicycle",
+  "HOME/Dog": "LiDog",
+  "HOME/Game Development/Star Wars Battles": "TiCards",
+  "HOME/Home Exercise": "🏋️‍♂️"
 }

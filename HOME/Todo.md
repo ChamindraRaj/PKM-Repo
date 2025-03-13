@@ -1,3 +1,0 @@
-- [x] Message Taylor
-    - [x] TV install, no antenna cable
-    - [x] Camera installation
