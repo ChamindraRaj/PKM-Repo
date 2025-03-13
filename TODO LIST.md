@@ -1,3 +1,4 @@
+- [ ] Review 12x12 Photobook
 - [ ] Print 12x12 Photobook
 - [ ] Design 3 8x8 photobooks
 - [x] Buy Charger for the car

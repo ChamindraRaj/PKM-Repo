@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO LIST.md",
+                "file": "HOME/Dog/Training.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO LIST"
+              "title": "Training"
             }
           }
         ],
@@ -210,6 +210,8 @@
   },
   "active": "284bceb3f1267bfa",
   "lastOpenFiles": [
+    "HOME/Dog/Dog stuff.md",
+    "TODO LIST.md",
     "HOME/Car audio.md",
     "WORK/EDMI/Alisdair Feint.md",
     "HOME/Interests/Tech/4 reasons Zabbix is the best home lab monitoring t.md",
@@ -235,8 +237,6 @@
     "HOME/Interests/Photography/Camera stuff.md",
     "HOME/Interests/Photography",
     "HOME/Battle of Britain.md",
-    "HOME/Streaming shows/Titans.md",
-    "HOME/Interests/Tech/PC Building/True NAS System.md",
     "HOME/Interests/Running",
     "HOME/Interests",
     "HOME/St George",
