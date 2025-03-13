@@ -1,7 +1,8 @@
 - [ ] Print 12x12 Photobook
 - [ ] Design 3 8x8 photobooks
-- [ ] Buy Charger for the car
+- [x] Buy Charger for the car
 - [ ] Install SSD
 - [ ] Update modi's laptop
 - [ ] Install dropper post
+- [ ] Setup git hub repo for the boys code
 - [ ] 
