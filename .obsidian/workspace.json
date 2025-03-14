@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "cf5d24618cc73fe3",
+        "id": "3865bbe1fa550942",
         "type": "tabs",
         "children": [
           {
-            "id": "0a884a6d92a66de9",
+            "id": "a09c50156a388254",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HOME/Interests/Tech/PI Hole - SBS ON DEMAND.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "PI Hole - SBS ON DEMAND"
-            }
-          },
-          {
-            "id": "d85ce2cd74acc979",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,8 +175,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d85ce2cd74acc979",
+  "active": "f22850fb968f7d59",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "HOME/Interests/Tech/Home assistant.md",
+    "HOME/Interests/Tech/Car audio.md",
+    "HOME/Interests/Photography/Hacking my Sony A6000 Camera Adding Modern Feature.md",
     "HOME/Interests/Tech/Owncloud setup.md",
     "Untitled.canvas",
     "HOME/Dog/Training.md",
@@ -219,9 +204,6 @@
     "HOME/St George/SGSH - newsletter notes.md",
     "HOME/sentence rocket hamster stairs song unique traffic.md",
     "HOME/Technology Radar _ An opinionated guide to technol.md",
-    "HOME/Thanks.md",
-    "HOME/The Best Sci-Fi Movies on Prime Video - CNET.md",
-    "HOME/Ubuntu issues.md",
     "HOME/Interests/Photography",
     "HOME/Interests/Running",
     "HOME/Interests",
